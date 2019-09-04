@@ -1,0 +1,63 @@
+body{
+    background:url(bc1.jpg)no-repeat center fixed;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    
+}
+.menu ul {
+    background-color: #24292e;
+    height: 46px;
+    
+}
+
+
+.menu li{
+    display:inline-block;
+    margin: 0px;
+    width: 8cm;
+    height: 30px;
+    text-decoration-color: azure;
+}
+.menu a{
+    color: aliceblue;
+    font-size: 15px;
+    display: inline-block;
+    letter-spacing: 1px;
+    padding: 15px 25px;
+    text-transform: uppercase;
+    text-decoration: none;
+
+}
+
+.menu a:hover {
+    background-color: white;
+    color: #24292e;
+    text-decoration: none;
+}
+
+.menu {
+    background-color: black;
+    color: #24292e;
+    text-decoration: none;
+}
+
+.logo{
+    padding:30px;
+    text-align: center; 
+
+}
+.isi{
+    background-color: black;
+    text-align: center;
+}
+* {box-sizing:border-box}
+
+
+
+
+
+
+
